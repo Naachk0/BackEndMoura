@@ -1,0 +1,14 @@
+C:\Users\51134897863\Desktop\backend_moura\concatFor\bin\Debug\net9.0\concatFOr.exe
+C:\Users\51134897863\Desktop\backend_moura\concatFor\bin\Debug\net9.0\concatFOr.deps.json
+C:\Users\51134897863\Desktop\backend_moura\concatFor\bin\Debug\net9.0\concatFOr.runtimeconfig.json
+C:\Users\51134897863\Desktop\backend_moura\concatFor\bin\Debug\net9.0\concatFOr.dll
+C:\Users\51134897863\Desktop\backend_moura\concatFor\bin\Debug\net9.0\concatFOr.pdb
+C:\Users\51134897863\Desktop\backend_moura\concatFor\obj\Debug\net9.0\concatFOr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51134897863\Desktop\backend_moura\concatFor\obj\Debug\net9.0\concatFOr.AssemblyInfoInputs.cache
+C:\Users\51134897863\Desktop\backend_moura\concatFor\obj\Debug\net9.0\concatFOr.AssemblyInfo.cs
+C:\Users\51134897863\Desktop\backend_moura\concatFor\obj\Debug\net9.0\concatFOr.csproj.CoreCompileInputs.cache
+C:\Users\51134897863\Desktop\backend_moura\concatFor\obj\Debug\net9.0\concatFOr.dll
+C:\Users\51134897863\Desktop\backend_moura\concatFor\obj\Debug\net9.0\refint\concatFOr.dll
+C:\Users\51134897863\Desktop\backend_moura\concatFor\obj\Debug\net9.0\concatFOr.pdb
+C:\Users\51134897863\Desktop\backend_moura\concatFor\obj\Debug\net9.0\concatFOr.genruntimeconfig.cache
+C:\Users\51134897863\Desktop\backend_moura\concatFor\obj\Debug\net9.0\ref\concatFOr.dll
