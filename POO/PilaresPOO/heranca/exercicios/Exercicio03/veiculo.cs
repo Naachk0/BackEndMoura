@@ -8,6 +8,11 @@ namespace heranca
         public string Modelo;
         public int Ano;
 
+        public void Acelerar()
+        {
+            Console.WriteLine($"Acelerando veiculo!!");
+            
+        }
 
     }
 }

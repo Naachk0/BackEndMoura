@@ -1,0 +1,5 @@
+C:\Users\51134897863\Desktop\backend_moura\POO\PilaresPOO\obj\Debug\net9.0\PilaresPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51134897863\Desktop\backend_moura\POO\PilaresPOO\obj\Debug\net9.0\PilaresPOO.AssemblyInfoInputs.cache
+C:\Users\51134897863\Desktop\backend_moura\POO\PilaresPOO\obj\Debug\net9.0\PilaresPOO.AssemblyInfo.cs
+C:\Users\51134897863\Desktop\backend_moura\POO\PilaresPOO\obj\Debug\net9.0\PilaresPOO.csproj.CoreCompileInputs.cache
+C:\Users\51134897863\Desktop\backend_moura\POO\PilaresPOO\obj\Debug\net9.0\PilaresPOO.sourcelink.json
